@@ -1,0 +1,15 @@
+.jumbotron {
+	padding: 8rem 4rem;
+	background-color: rgb(128, 250, 199);
+	color: white;
+}
+
+header nav .container #sapa_user{
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	text-decoration: none;
+	color: whitesmoke;
+	font-weight: 400;
+	/* align-items: center; */
+}
